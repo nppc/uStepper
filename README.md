@@ -103,3 +103,6 @@ After selecting the menu (stick moved to the CENTER).
 After selecting the menu (stick moved to the CENTER).
 1. Move the stick away from CENTER to MIN or MAX and then back to CENTER.
 2. After 5 seconds settings will be restored to factory default and board will restart.
+
+## Latest firmware
+[uStepperV2final.hex](https://raw.githubusercontent.com/nppc/uStepper-support/master/uStepperV2final.hex) (right-click and save link as...)
