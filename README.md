@@ -23,7 +23,7 @@ In configuration mode we have six menu items:
 | Item number | Item name | adjsuting range (real value can be a bit different from calculated)
 | ------------ | ------------- | -------------
 | 1 | Calibrate RC Transmitter stick range | Determined by MAX position of the stick
-| 2 | Adjust motor power** | 53mA, 73mA, 97mA, 120mA, 143mA, 167mA, 197mA, 227mA, 257mA, 287mA
+| 2 | Adjust motor power** | 53mA, 73mA, 97mA, 120mA, 143mA, 167mA, 197mA, 227mA, 257mA
 | 3 | Board type (SERVO / ESC) | Servo or ESC
 | 4 | Adjust SERVO travel range (steps) | 400, 600, 800, 1200, 1600, 2000, 2400, 2800, 3200, 4000 (from min to max)
 | 5 | Maximum motor speed | 714Hz, 833Hz, 1000Hz, 1176Hz, 1429Hz, 1667Hz, 1818Hz, 1923Hz, 1961Hz, 2000Hz
