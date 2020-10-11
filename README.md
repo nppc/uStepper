@@ -105,6 +105,4 @@ After selecting the menu (stick moved to the CENTER).
 2. After 5 seconds settings will be restored to factory default and board will restart.
 
 ## Latest firmware
-[uStepperV2final.hex with 400 steps range in Servo mode](https://raw.githubusercontent.com/nppc/uStepper-support/master/Bin/uStepperV2final.hex) (right-click and save link as...)
-
 [uStepperV2_800.hex with 800 steps range in Servo mode](https://raw.githubusercontent.com/nppc/uStepper-support/master/Bin/uStepperV2_800.hex) (right-click and save link as...)
