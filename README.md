@@ -50,9 +50,9 @@ If stick left in CENTER for 5 seconds, current settings will be stored to flash 
 
 After selecting the menu (stick moved to the CENTER).
 1. Wait about 1 second and then move stick to the MAX.
-2. uStepper will do a long beep.
+2. uStepper will do a long beep. Max position will be recorded.
 3. Move stick back to CENTER and don't touch it.
-4. uStepper will record max position and then collect a jitter of RC signal around center.
+4. uStepper will collect a jitter of RC signal around center and record it.
 5. After 5 seconds settings will be stored and board will restart.
  
 ### 2. Adjust motor power
