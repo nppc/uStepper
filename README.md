@@ -105,4 +105,10 @@ After selecting the menu (stick moved to the CENTER).
 2. After 5 seconds settings will be restored to factory default and board will restart.
 
 ## Latest firmware
-[uStepperV2_800.hex with 800 steps range in Servo mode](https://raw.githubusercontent.com/nppc/uStepper-support/master/Bin/uStepperV2_800.hex) (right-click and save link as...)
+[uStepperV2.1_800.hex with 800 steps range in Servo mode](https://raw.githubusercontent.com/nppc/uStepper-support/master/Bin/uStepperV2_1_800.hex) (right-click and save link as...)
+
+### Changelog
+#### 02.01.2021
+Fix a bug that prevented configuration saving if board was not powercycled before entering to configuration mode.
+
+Extended a timeout in stick calibration to prevent big jitter setting if stick wasn't returned to center fast enough. Now pause is 2 seconds (before it was 1).
