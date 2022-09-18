@@ -46,7 +46,7 @@ In configuration mode we have seven menu items:
 * Servo travel range: 400 steps (from min to max)
 * Motor speed: 1429Hz
 
-/** Motor real power depends on many factors. Change the setting and observe the temperature of the motor. 
+/** Motor real power depends on many factors. Change the setting and observe the temperature of the motor. RMS power range is about 50mA - 265mA.   
 
 When we entered Configuration mode (RC Transmitter stick is in MAX), move the stick to the CENTER. 
 uStepper will start to cycle between menu items indicating 3 times by N short blinks the number of the menu.
