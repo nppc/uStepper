@@ -4,7 +4,7 @@ Board for controlling micro stepper motors
 
 [For older version go here](History.md)
 
-| Single board | 2in1 board | 
+| Single board (6.5mm X 10.7mm) | 2in1 board (10.5mm X 10.7mm) | 
 |-----------|-----------|
 | <p align="center"><img src="Images/uStepperSingle_bot.png" height="200px"></p> | <p align="center"><img src="Images/uStepper2in1_bot.png" height="200px"></p>
 | Top 4 connections for stepper motor.<BR>(+) and (-) for Battery 4.2V max.<BR>(R) for signal from RC transmitter. | Top 4 connections at left and right edge for 2 stepper motors.<BR>(+) and (-) for Battery 4.2V max.<BR>(1) and (2) for signals from RC transmitter. | 
