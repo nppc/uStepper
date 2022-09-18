@@ -84,7 +84,7 @@ After selecting the menu (stick moved to the CENTER).
 
 After selecting the menu (stick moved to the CENTER).
 1. To decrease/increase travel range, move stick to MIN/MAX and then back to CENTER.
-2. Every change will be confirmed with motor run to the MIN/MAX position and back. If, after chaning setting, no confirmation received, the setting is in it's MIN or MAX.
+2. Every change will be confirmed with short blinks (1 blink - 400 steps, 2 blinks - 600 steps ...). If, after changing setting, no confirmation received, the setting is in it's MIN or MAX.
 3. Leaving stick in MIN or MAX position will change setting continuously.
 4. To finsh adjustment, move stick back to CENTER.
 5. After 5 seconds settings will be stored and board will restart.
@@ -93,7 +93,7 @@ After selecting the menu (stick moved to the CENTER).
 
 After selecting the menu (stick moved to the CENTER).
 1. To decrease/increase maximum motor speed, move stick to MAX/MIN and then back to CENTER.
-2. Every change will be confirmed with motor run to the MAX position and back with selected speed. If, after chaning setting, no confirmation received, the setting is in it's MIN or MAX.
+2. Every change will be confirmed with short blinks (1 blink - 714Hz, 2 blinks - 833Hz ...). If, after chaning setting, no confirmation received, the setting is in it's MIN or MAX.
 3. Leaving stick in MIN or MAX position will change setting continuously.
 4. To finsh adjustment, move stick back to CENTER.
 5. After 5 seconds settings will be stored and board will restart.
@@ -102,7 +102,7 @@ After selecting the menu (stick moved to the CENTER).
 
 After selecting the menu (stick moved to the CENTER).
 1. To decrease/increase dynamic power %, move stick to MAX/MIN and then back to CENTER.
-2. Every change will be confirmed with short blink (1 blink - 0%, 2 blinks - 40%, 3 blinks - 60%, 4 blinks - 80%). If, after chaning setting, no confirmation received, the setting is in it's MIN or MAX.
+2. Every change will be confirmed with short blinks (1 blink - 0%, 2 blinks - 40% ...). If, after chaning setting, no confirmation received, the setting is in it's MIN or MAX.
 3. Leaving stick in MIN or MAX position will change setting continuously.
 4. To finsh adjustment, move stick back to CENTER.
 5. After 5 seconds settings will be stored and board will restart.
