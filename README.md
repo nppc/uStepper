@@ -11,6 +11,8 @@ Board for controlling micro stepper motors
 
 ## Using uStepper board
 When board is powered with transmitter connected, it will do short blink indicating that RC signal is present. If during startup led is always on, then check transmitter connection.
+ 
+ Before using the board, transmitter stick calibration should be performed.
 
 ## Configuration with RC Transmitter
 The uStepper board has a status indicating LED.
