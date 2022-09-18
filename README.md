@@ -4,12 +4,13 @@ Board for controlling micro stepper motors
 
 [For older version go here](History.md)
 
-| Single board| 2in1 board | 
-| <img src="Images/uStepperSingle_bot.png"> | <img src="Images/uStepper2in1_bot.png">
-| Top 4 connections for stepper motor. (+) and (-) for Battery 4.2V max. (R) for signal from RC transmitter. | Top 4 connections at left and right edge for 2 stepper motors. (+) and (-) for Battery 4.2V max. (1) and (2) for signals from RC transmitter. | 
+| Single board | 2in1 board | 
+|-----------|-----------|
+| <p align="center"><img src="Images/uStepperSingle_bot.png" height="200px"></p> | <p align="center"><img src="Images/uStepper2in1_bot.png" height="200px"></p>
+| Top 4 connections for stepper motor.<BR>(+) and (-) for Battery 4.2V max.<BR>(R) for signal from RC transmitter. | Top 4 connections at left and right edge for 2 stepper motors.<BR>(+) and (-) for Battery 4.2V max.<BR>(1) and (2) for signals from RC transmitter. | 
 
 ## Using uStepper board
-When power and transmitter is connected to board it will do short blink indicating that RC signal is present. If during startup led is always on, then check transmitter connection.
+When board is powered with transmitter connected, it will do short blink indicating that RC signal is present. If during startup led is always on, then check transmitter connection.
 
 ## Configuration with RC Transmitter
 The uStepper board has a status indicating LED.
